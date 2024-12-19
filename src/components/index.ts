@@ -1,7 +1,13 @@
 export { default as Header } from "@/components/Header";
 export { default as Navbar } from "@/components/Navbar";
 export { default as Logo } from "@/components/Logo";
-export {default as NavLinks} from "@/components/NavLinks";
-export {default as CartButton} from "@/components/CartButton";
-export {default as ModeToggle} from "@/components/ModeToggle";
-export {default as LinksDropdown} from "@/components/LinksDropdown";
+export { default as NavLinks } from "@/components/NavLinks";
+export { default as CartButton } from "@/components/CartButton";
+export { default as ModeToggle } from "@/components/ModeToggle";
+export { default as LinksDropdown } from "@/components/LinksDropdown";
+export { default as Hero } from "@/components/Hero";
+export { default as HeroCarousel } from "@/components/HeroCarousel";
+export { default as SectionTitle } from "@/components/SectionTitle";
+export { default as FeaturedProducts } from "@/components/FeaturedProducts";
+export { default as ProductsGrid } from "@/components/ProductsGrid";
+export {default as ErrorElement} from "@/components/ErrorElement";

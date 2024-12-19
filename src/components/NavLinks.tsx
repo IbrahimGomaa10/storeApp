@@ -9,7 +9,7 @@ function NavLinks() {
           <NavLink
             to={link.href}
             className={({ isActive }) => {
-              return `capitalize font-light tracking-wide ${
+              return `capitalize font-medium tracking-wide ${
                 isActive ? "text-primary" : ""
               }`;
             }}
